@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status_img">Status Image</string>
+    <string name="some_temp">23</string>
+    <string name="degree">O</string>
+    <string name="fahrenheit">F</string>
+    <string name="download">Download Current Data</string>
+    <string name="min_temp">Minimum Temperature :</string>
+    <string name="max_temp">Maximum Temperature :</string>
+    <string name="pressure">Pressure :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="delete">Delete</string>
+</resources>
